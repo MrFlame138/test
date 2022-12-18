@@ -1,0 +1,21 @@
+{
+   "sessionName": "flame",
+   "ownerNumber": "85578689615@s.whatsapp.net",
+   "ownerName": "Mr.Flame",
+   "botName": "Helper Layar138",
+   "footer": "LAYAR138.CLICK © 2022",
+   "butName": "YouTube",
+   "butLink": "https://youtube.com/c/RAMLANID",   
+   "pathThumb": "./temp/logo.jpg",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
